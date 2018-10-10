@@ -1,4 +1,4 @@
-# recruitment-react-native-test vim
+# recruitment-react-native-test
 
 ## Setup
 
