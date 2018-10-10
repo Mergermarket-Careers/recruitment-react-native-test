@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should render the text of the header 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#000",
+      "flex": 1,
+      "justifyContent": "center",
+      "maxHeight": "10%",
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#fff",
+        "fontSize": 20,
+        "paddingLeft": 10,
+      }
+    }
+  >
+    Acuris - mobile app
+  </Text>
+</View>
+`;
