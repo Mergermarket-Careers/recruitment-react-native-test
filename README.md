@@ -19,6 +19,12 @@ Run the application with the command:
 ```
 yarn start
 ```
+or
+
+```
+npm run start
+```
+
 and presisng 'i' to run the iOS Simulator
 
 ## Objective
