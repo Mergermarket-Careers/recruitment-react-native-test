@@ -1,4 +1,4 @@
-# recruitment-react-native-test vim
+# recruitment-react-native-test
 
 ## Setup
 
@@ -19,6 +19,12 @@ Run the application with the command:
 ```
 yarn start
 ```
+or
+
+```
+npm run start
+```
+
 and presisng 'i' to run the iOS Simulator
 
 ## Objective
