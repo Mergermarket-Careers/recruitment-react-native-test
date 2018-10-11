@@ -3,151 +3,156 @@ const data = [
     key: '1',
     product: 'Mergermarket',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: 'daslkfjdslkjfasdlk;fjadsl;',
-    location: 'China',
-    tag: 'hack, chip, US',
+      'New Opp to test the dates in ISS',
+    content: 'New DR opp to test dates',
+    location: 'United Kingdom',
+    tag: '',
     date: '04/10/2018'
   },
   {
     key: '2',
-    product: 'Mergermarket',
+    product: 'Deal Reoporter',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
-    location: 'China',
-    tag: 'hack, chip, US',
+      'Canada 2',
+    content: 'Canada 2',
+    location: 'Canada',
+    tag: 'Strong evidence',
     date: '04/10/2018'
   },
   {
     key: '3',
-    product: 'Mergermarket',
+    product: 'Debtwire',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
-    location: 'China',
-    tag: 'hack, chip, US',
-    date: '04/10/2018'
+      'test intel from legacy RLA',
+    content: 'Test DW',
+    location: 'London',
+    tag: 'Computer software, Chad',
+    date: '10/10/2018'
   },
   {
     key: '4',
-    product: 'Mergermarket',
-    title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
+    product: 'Debtwire',
+    title:'China\'s 5i5j Group denies rent manipulation probe report',
+    content: 'China’s Beijing Woai Wojia Real Estate (5i5j Group) has denied a report that it is being investigated for suspected rent manipulation, Chinanew.com reported on 11 September, citing a statement from the company. A media report claimed that the Beijing Municipal Commission of Development and Reform (Beijing DRC) raided 5i5j Group’s office on 10 September over suspected anticompetitive conduct. However, the real estate brokerage said the Beijing DRC’s visit was for a routine exchange of information and did not involve any price-related investigation. The company abides by government regulations, it added.',
     location: 'China',
-    tag: 'hack, chip, US',
-    date: '04/10/2018'
+    tag: '5i5j, manipulation',
+    date: '12/09/2018'
   },
   {
     key: '5',
     product: 'Mergermarket',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
-    location: 'China',
-    tag: 'hack, chip, US',
+      'New Opp to test the dates in ISS',
+    content: 'New DR opp to test dates',
+    location: 'United Kingdom',
+    tag: '',
     date: '04/10/2018'
   },
   {
     key: '6',
-    product: 'Mergermarket',
+    product: 'Deal Reoporter',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
-    location: 'China',
-    tag: 'hack, chip, US',
+      'Canada 2',
+    content: 'Canada 2',
+    location: 'Canada',
+    tag: 'Strong evidence',
     date: '04/10/2018'
   },
   {
     key: '7',
-    product: 'Mergermarket',
+    product: 'Debtwire',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
-    location: 'China',
-    tag: 'hack, chip, US',
-    date: '04/10/2018'
+      'test intel from legacy RLA',
+    content: 'Test DW',
+    location: 'London',
+    tag: 'Computer software, Chad',
+    date: '10/10/2018'
   },
   {
     key: '8',
-    product: 'Mergermarket',
-    title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
+    product: 'Debtwire',
+    title:'China\'s 5i5j Group denies rent manipulation probe report',
+    content: 'China’s Beijing Woai Wojia Real Estate (5i5j Group) has denied a report that it is being investigated for suspected rent manipulation, Chinanew.com reported on 11 September, citing a statement from the company. A media report claimed that the Beijing Municipal Commission of Development and Reform (Beijing DRC) raided 5i5j Group’s office on 10 September over suspected anticompetitive conduct. However, the real estate brokerage said the Beijing DRC’s visit was for a routine exchange of information and did not involve any price-related investigation. The company abides by government regulations, it added.',
     location: 'China',
-    tag: 'hack, chip, US',
-    date: '04/10/2018'
-  },
-  {
+    tag: '5i5j, manipulation',
+    date: '12/09/2018'
+  },{
     key: '9',
     product: 'Mergermarket',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
-    location: 'China',
-    tag: 'hack, chip, US',
+      'New Opp to test the dates in ISS',
+    content: 'New DR opp to test dates',
+    location: 'United Kingdom',
+    tag: '',
     date: '04/10/2018'
   },
   {
     key: '10',
-    product: 'Mergermarket',
+    product: 'Deal Reoporter',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
-    location: 'China',
-    tag: 'hack, chip, US',
+      'Canada 2',
+    content: 'Canada 2',
+    location: 'Canada',
+    tag: 'Strong evidence',
     date: '04/10/2018'
   },
   {
     key: '11',
-    product: 'Mergermarket',
+    product: 'Debtwire',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: 'oh yeah, this is the content',
-    location: 'China',
-    tag: 'hack, chip, US',
-    date: '04/10/2018'
+      'test intel from legacy RLA',
+    content: 'Test DW',
+    location: 'London',
+    tag: 'Computer software, Chad',
+    date: '10/10/2018'
   },
   {
     key: '12',
-    product: 'Mergermarket',
-    title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
+    product: 'Debtwire',
+    title:'China\'s 5i5j Group denies rent manipulation probe report',
+    content: 'China’s Beijing Woai Wojia Real Estate (5i5j Group) has denied a report that it is being investigated for suspected rent manipulation, Chinanew.com reported on 11 September, citing a statement from the company. A media report claimed that the Beijing Municipal Commission of Development and Reform (Beijing DRC) raided 5i5j Group’s office on 10 September over suspected anticompetitive conduct. However, the real estate brokerage said the Beijing DRC’s visit was for a routine exchange of information and did not involve any price-related investigation. The company abides by government regulations, it added.',
     location: 'China',
-    tag: 'hack, chip, US',
-    date: '04/10/2018'
-  },
-  {
+    tag: '5i5j, manipulation',
+    date: '12/09/2018'
+  },{
     key: '13',
     product: 'Mergermarket',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
-    location: 'China',
-    tag: 'hack, chip, US',
+      'New Opp to test the dates in ISS',
+    content: 'New DR opp to test dates',
+    location: 'United Kingdom',
+    tag: '',
     date: '04/10/2018'
   },
   {
     key: '14',
-    product: 'Mergermarket',
+    product: 'Deal Reoporter',
     title:
-      'The Big Hack: How China used a tiny chip to infiltrate US companies',
-    content: '',
-    location: 'China',
-    tag: 'hack, chip, US',
+      'Canada 2',
+    content: 'Canada 2',
+    location: 'Canada',
+    tag: 'Strong evidence',
     date: '04/10/2018'
   },
   {
     key: '15',
-    product: 'Mergermarket',
-    title: 'ow China used a tiny chip to infiltrate US companies',
-    content: '',
+    product: 'Debtwire',
+    title:
+      'test intel from legacy RLA',
+    content: 'Test DW',
+    location: 'London',
+    tag: 'Computer software, Chad',
+    date: '10/10/2018'
+  },
+  {
+    key: '16',
+    product: 'Debtwire',
+    title:'China\'s 5i5j Group denies rent manipulation probe report',
+    content: 'China’s Beijing Woai Wojia Real Estate (5i5j Group) has denied a report that it is being investigated for suspected rent manipulation, Chinanew.com reported on 11 September, citing a statement from the company. A media report claimed that the Beijing Municipal Commission of Development and Reform (Beijing DRC) raided 5i5j Group’s office on 10 September over suspected anticompetitive conduct. However, the real estate brokerage said the Beijing DRC’s visit was for a routine exchange of information and did not involve any price-related investigation. The company abides by government regulations, it added.',
     location: 'China',
-    tag: 'hack, chip, US',
-    date: '04/10/2018'
-  }
+    tag: '5i5j, manipulation',
+    date: '12/09/2018'
+  },
 ]
 
 export default data
