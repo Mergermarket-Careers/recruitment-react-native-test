@@ -31,11 +31,10 @@ and presisng 'i' to run the iOS Simulator
 
 Modify the already created application by:
 
-- Creat an IntelViewer page;
-- Add the necessary navigation to move to the IntelViewer page and back;
-- Adding the functionality to refresh by scrolling up when at the top of the list;
-- Add a previously generated intel to the list when refreshing;
-- Style the views and the component as per your personal test;
+- Create an IntelViewer page
+- Add the necessary navigation to move to the IntelViewer page and back
+- Adding the functionality to refresh by scrolling up when at the top of the list
+- Add a previously generated intel to the list when refreshing
 
 ### What we're looking for
 
